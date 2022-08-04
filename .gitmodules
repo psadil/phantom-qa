@@ -1,0 +1,3 @@
+[submodule "src/aa-fmri-phantom-qa"]
+	path = src/aa-fmri-phantom-qa
+	url = git@github.com:trendscenter/aa-fmri-phantom-qa.git
